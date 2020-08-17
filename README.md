@@ -15,7 +15,7 @@ yarn add lib-flexble
 npm install lib-flexible --save
 ```
 #### 引入
-在**main.js**文件种中引入**lib-flexble**
+在**main.js**文件中引入**lib-flexble**
 ```javascript
 import 'lib-flexble'
 ```
@@ -31,7 +31,7 @@ lib-flexible自动在html的head中添加一个**meta name="viewport"**的标签
 ```shell
 yarn add px2rem-loader
 ```
-或
+或者
 ```shell
 npm install px2rem-loader --save-dev
 ```
