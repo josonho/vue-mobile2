@@ -16,6 +16,6 @@ export default {
 <style>
 .title {
   font-size: 50px;
-  margin: 40px auto 0;
+  text-align: center;
 }
 </style>
